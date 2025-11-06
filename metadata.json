@@ -1,0 +1,5 @@
+{
+  "name": "مكتبة الجزائر - Bibliothèque Algérienne",
+  "description": "A modern library management web application for Algerian libraries with bilingual support (Arabic/French), subscription management, and electronic card generation.",
+  "requestFramePermissions": []
+}
